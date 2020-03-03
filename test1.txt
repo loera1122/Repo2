@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 3212-D794
-
- Directory of C:\Users\gabri\Desktop\My Project
-
-03/03/2020  11:28 AM    <DIR>          .
-03/03/2020  11:28 AM    <DIR>          ..
-03/03/2020  11:28 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  53,193,551,872 bytes free
+change 1
